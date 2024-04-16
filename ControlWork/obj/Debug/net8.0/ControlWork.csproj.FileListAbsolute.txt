@@ -1,0 +1,14 @@
+C:\Учеба\C#\ControlWork\bin\Debug\net8.0\ControlWork.exe
+C:\Учеба\C#\ControlWork\bin\Debug\net8.0\ControlWork.deps.json
+C:\Учеба\C#\ControlWork\bin\Debug\net8.0\ControlWork.runtimeconfig.json
+C:\Учеба\C#\ControlWork\bin\Debug\net8.0\ControlWork.dll
+C:\Учеба\C#\ControlWork\bin\Debug\net8.0\ControlWork.pdb
+C:\Учеба\C#\ControlWork\obj\Debug\net8.0\ControlWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба\C#\ControlWork\obj\Debug\net8.0\ControlWork.AssemblyInfoInputs.cache
+C:\Учеба\C#\ControlWork\obj\Debug\net8.0\ControlWork.AssemblyInfo.cs
+C:\Учеба\C#\ControlWork\obj\Debug\net8.0\ControlWork.csproj.CoreCompileInputs.cache
+C:\Учеба\C#\ControlWork\obj\Debug\net8.0\ControlWork.dll
+C:\Учеба\C#\ControlWork\obj\Debug\net8.0\refint\ControlWork.dll
+C:\Учеба\C#\ControlWork\obj\Debug\net8.0\ControlWork.pdb
+C:\Учеба\C#\ControlWork\obj\Debug\net8.0\ControlWork.genruntimeconfig.cache
+C:\Учеба\C#\ControlWork\obj\Debug\net8.0\ref\ControlWork.dll
